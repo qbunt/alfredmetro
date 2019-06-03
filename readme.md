@@ -1,4 +1,4 @@
-# Metro for Alfred
+# Metro for Alfred 4 :bullettrain_side: 
 
 A pretty nice theme for Alfred. Meant for Alfred 4.
 
